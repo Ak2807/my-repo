@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6405-B264
+
+ Directory of C:\Users\akshatg\Desktop\my-repo
+
+09/22/2023  10:43 AM    <DIR>          .
+09/22/2023  10:43 AM    <DIR>          ..
+09/22/2023  10:43 AM               122 file
+09/22/2023  10:43 AM                 0 fileA.txt
+               2 File(s)            122 bytes
+               2 Dir(s)  238,656,049,152 bytes free
